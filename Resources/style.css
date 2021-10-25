@@ -1,3 +1,9 @@
-.navbar .navbar-expand-lg{
-    color: darkblue;
+.container-fluid{
+    background-color: rgb(184, 184, 196);
+}
+
+
+
+#navigation{
+    background-color: rgb(69, 134, 187);
 }
